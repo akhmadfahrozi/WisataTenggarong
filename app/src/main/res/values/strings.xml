@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">wisata tenggarong</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="navigation_drawer_clos">Close navigation drawer</string>
+    <string name="versi">versi 1.0.0</string>
+    <string name="penjelasan">Tenggarong (disingkat: TGR[1]) merupakan sebuah kota kecamatan sekaligus ibu kota Kabupaten Kutai Kartanegara, Kalimantan Timur. Wilayah Tenggarong yang terbagi dalam 12 kelurahan dan 2 desa ini memiliki luas wilayah mencapai 398,10 km2 dengan jumlah penduduk sebanyak 72.458 (BPS 2007).
+
+Tenggarong juga merupakan ibu kota Kesultanan Kutai Kartanegara ing Martadipura. Kota ini didirikan pada tanggal 28 September 1782 oleh Raja Kutai Kartanegara ke-15, Aji Muhammad Muslihuddin, yang dikenal pula dengan nama Aji Imbut.
+
+Semula kota ini bernama Tepian Pandan ketika Aji Imbut memindahkan ibukota kerajaan dari Pemarangan. Oleh Sultan Kutai, nama Tepian Pandan kemudian diubah menjadi Tangga Arung yang berarti rumah raja. Namun pada perkembangannya, Tangga Arung lebih populer dengan sebutan “Tenggarong” hingga saat ini.
+Tenggarong juga merupakan ibu kota Kesultanan Kutai Kartanegara ing Martadipura. Kota ini didirikan pada tanggal 28 September 1782 oleh Raja Kutai Kartanegara ke-15, Aji Muhammad Muslihuddin, yang dikenal pula dengan nama Aji Imbut.
+
+Semula kota ini bernama Tepian Pandan ketika Aji Imbut memindahkan ibu kota kerajaan dari Pemarangan. Oleh Sultan Kutai, nama Tepian Pandan kemudian diubah menjadi Tangga Arung yang berarti rumah raja. Namun pada perkembangannya, Tangga Arung lebih populer dengan sebutan "Tenggarong" hingga saat ini.
+
+Menurut legenda Orang Dayak Benuaq dari kelompok Ningkah Olo, nama/kata Tenggarong menurut bahasa Dayak Benuaq adalah "Tengkarukng" berasal dari kata tengkaq dan bengkarukng, tengkaq berarti naik atau menjejakkan kaki ke tempat yang lebih tinggi (seperti meniti anak tangga), bengkarukng adalah sejenis tanaman akar-akaran. Menurut Orang Benuaq ketika sekolompok orang Benuaq (mungkin keturunan Ningkah Olo) menyusuri Sungai Mahakam menuju pedalaman mereka singgah di suatu tempat dipinggir tepian Mahakam, dengan menaiki tebing sungai Mahakam melalui akar bengkarukng, itulah sebabnya disebut Tengkarukng oleh aksen Melayu kadang "keseleo" disebut Tengkarong, lama-kelamaan penyebutan tersebut berubah menjadi Tenggarong. Perubahan tersebut disebabkan Bahasa Benuaq banyak memiliki konsonan yang sulit diucapkan oleh penutur yang biasa berbahasa Melayu/Indonesia.
+    </string>
+    <string name="isi">Sejarah
+
+Menurut legenda Orang Dayak Benuaq dari kelompok Ningkah Olo, nama/kata Tenggarong menurut bahasa Dayak Benuaq adalah “Tengkarukng” berasal dari kata tengkaq dan bengkarukng, tengkaq berarti naik atau menjejakkan kaki ke tempat yang lebih tinggi (seperti meniti anak tangga), bengkarukng adalah sejenis tanaman akar-akaran. Menurut Orang Benuaq ketika sekolompok orang Benuaq (mungkin keturunan Ningkah Olo) menyusuri Sungai Mahakam menuju pedalaman mereka singgah di suatu tempat dipinggir tepian Mahakam, dengan menaiki tebing sungai Mahakam melalui akar bengkarukng, itulah sebabnya disebut Tengkarukng oleh aksen Melayu kadang “keseleo” disebut Tengkarong, lama-kelamaan penyebutan tersebut berubah menjadi Tenggarong. Perubahan tersebut disebabkan Bahasa Benuaq banyak memiliki konsonan yang sulit diucapkan oleh penutur yang biasa berbahasa Melayu/Indonesia
+    </string>
+    <string name="jembatan">Jembatan Repo-Repo adalah jembatan khusus pejalan kaki yang membentang di atas Sungai Mahakam dan menghubungkan daratan kota Tenggarong dengan Pulau Kumala, Provinsi Kalimantan Timur. Jembatan ini resmi dibuka oleh Bupati Kutai Kartanegara Rita Widyasari pada tanggal 22 Maret 2016.[1] Peresmian Jembatan Repo-Repo ditandai upacara tempong tawar oleh Sultan Kutai Aji Muhammad Salehuddin II serta pengguntingan pita oleh Bupati Kukar.[2]
+
+Dalam bahasa Kutai, "Repo-Repo" berarti gembok.[2] Di jembatan ini, orang boleh memasang repo-repo atau gembok bertuliskan nama di pagar jembatan sebagai kenang-kenangan atau pun simbol cinta.
+    </string>
+    <string name="pulau">Objek wisata Pulau Kumala yang terletak di tengah Sungai Mahakam merupakan taman rekreasi perpaduan antara teknologi modern dan budaya tradisional. Pulau seluas 76 hektare ini dulunya adalah lahan tidur dan semak belukar. Saat ini, sebagian area sudah dilengkapi dengan berbagai fasilitas seperti sky tower setinggi 100 meter untuk menikmati keindahan dari udara, kereta api mini area permainan dan kereta gantung yang menghubungkan dengan daratan.
+
+Di pulau ini terdapat DSJ Resort lengkap dengan kolam renang dan sarana bagi mereka yang ingin istirahat, yaitu satu-satunya cottage di tengah Sungai Mahakam di lokasi Pulau ini dipersiapkan Aquarium Raksasa bagi ikan pesut, lumba-lumba air tawar yang hanya ada di Republik Rakyat Tiongkok dan Brasil.
+
+Pembangunan Taman Wisata Pulau Kumala dilakukan secara bertahap dan akan terus berkembang. Dengan demikian masyarakat akan mendapatkan tambahan objek wisata yang representatif selain Museum Mulawarman (bekas keraton Kerajaan Kutai Kartanegara), Waduk Panji Sukarame, Desa Budaya Pondok Labu di Tenggarong dan Nusa Tuna di Kecamatan Muara Muntai yang berpasir putih.
+    </string>
+    <string name="museumkayu">Museum Kayu Tuah Himba terletak tidak jauh dari Kawasan Waduk Panji Sukarame, Kutai Kartanegara, Kalimantan Timur yaitu berjarak sekitar 600 meter dari Waduk. Dibangun dengan bangunan kayu panggung yang berukuran 20 x 20 M². Yang melatar belakangi dibukanya objek wisata ini adalah karena adanya buaya yang telah diawetkan dalam Museum Kayu tersebut.
+
+Di dalam Museum Kayu ini terdapat beragam jenis kayu-kayu yang ada di Pulau Kalimantan.
+
+Koleksi dari Museum kayu ini, di antaranya adalah:
+
+Kerajinan Kutai yang terbuat dari rotan, berupa lemari kursi, lampu, tempat tidur dll
+Kerajinan Dayak, diantaranya adalah anjat, mandau, ukiran Dayak yang terbuat dari kayu ulin
+Miniatur rumah khas Dayak
+Jenis-jenis kayu di huatan daerah Kutai Kartanegara
+Koleksi jenis kayu 200 buah
+Koleksi jenis-jenis daun kayu yang dikeringkan 200 buah
+Koleksi biji-bijian
+Koleksi potongan log atau batangan pohon yang tumbuh di Hutan Kalimantan
+Buaya Muara yang diawetkan (jantan dan betina)
+Koleksi Kepiting pemakan sari kelapa
+Dan lain-lain.
+    </string>
+    <string name="museum_tgr">Museum Mulawarman adalah istana dari Kesultanan Kutai Kartanegara dibangun pada tahun 1963 sebagai pengganti Istana sebelumnya yang terbakar dan diresmikan pada tanggal 25 November 1971 oleh Gubernur Abdoel Wahab Sjahranie, lalu diserahterimakan kepada Departemen Pendidikan dan Kebudayaan tanggal 18 Februari 1976.[1]
+
+Kini telah dibangun Balai Kedaton sebagai tempat kediaman Sultan Aji Muhammad Salehuddin II yang telah dinobatkan kembali pada tahun 2002. Di dalam lingkungan Istana kesultanan terdapat pemakaman keluarga kerabat Kerajaan Kutai Kartanegara serta Masjid Jami Aji Amir Hasanuddin sebagai saksi masuknya Islam di Kutai.
+
+Museum yang sebelumnya adalah bangunan Keraton Kesultanan Kutai Kartanegara ini didirikan pada tahun 1932 oleh Pemerintah Belanda yang menyerahkan Keraton kepada Sultan Adji Muhammad Parikesit pada tahun 1935. Bahan bangunannya didominasi oleh beton mulai dari ruang bawah tanah, lantai, dinding, penyekat hingga atap. Di halaman depan Museum terdapat duplikat Patung Lembuswana yang merupakan lambang Kerajaan Kutai Kartanegara. Arsitektur dari museum ini mengadopsi dari arsitektur tradisional Suku Dayak yang ada di Kutai.
+
+Di dalam Museum Mulawarman tersimpan benda-benda sejarah yang pernah digunakan oleh Kesultanan seperti Singgasana, Tempat Peraduan, Pakaian Kebesaran, Tombak, Keris, Meriam, Kalung dan Prasasti Yupa serta Koleksi Keramik Cina. Setiap tahun dilaksanakan Upacara Erau, yaitu tarian Khas Kedaton Upacara Adat dan Mengulur Naga di Desa Kutai Lama. Dimana pada setiap pelaksanaan Erau juga ditampilkan atraksi Seni Budaya baik berupa Tarian Tradisional dan Upara Adat dari berbagai Suku lainnya di Indonesia serta mancanegara.
+    </string>
+    <string name="ladaya">Sebanyak 6.000 pengunjung memadati objek wisata Ladang Budaya (Ladaya) di Kelurahan Mangkurawang, Kecamatan Tenggarong tiap harinya selama liburan 24-27 Desember 2015.
+
+Mereka datang berbondong-bondong menggunakan mobil dan motor.
+
+Pengunjung berasal dari luar kota Tenggarong, seperti Samarinda, Bontang, Sangata hingga Balikpapan.
+
+
+    Objek wisata yang dikelola Yayasan Lanjong ini memiliki beberapa wahana menarik, seperti outbond, mini zoo, paint ball dan rumah-rumah Odah Rehat yang bisa disewakan.
+
+    Selama liburan, 22 unit rumah kayu berbentuk segitiga dengan atap menjuntai ke lantai tersewa semua. Mereka melakukan reservasi jauh hari hingga pesan di tempat.
+
+Harga sewa rumah kayu ini ditawarkan Rp 200 ribu-Rp 250 ribu sehari, kalau menginap biayanya Rp 250 ribu-Rp 300 ribu. “Kalau mau menginap, pengunjung dapat sarapan. Rumah mungil ini juga dilengkapi toilet. Kapasitasnya buat satu keluarga, yakni 4 orang,” tuturnya. Wahana paint ball disukai kebanyakan para remaja, sedangkan anak-anak lebih menyukai kegiatan outbond, seperti flying folk.
+
+Ladaya juga memiliki mini zoo dengan beberapa koleksi binatang khas Kaltim, seperti burung enggang, beruang madu, uwa-uwa, serta adapula burung merak.
+
+
+    Tiket pengunjung dibanderol Rp 10 ribu untuk dewasa dan Rp 5.000 untuk anak-anak.
+
+    </string>
+    <string name="planet">Planetarium Jagad Raya Tenggarong merupakan sebuah planetarium yang terletak di Jalan Diponegoro, Tenggarong, Kutai Kartanegara, Kalimantan Timur. Planetarium berkapasitas 150 tempat duduk ini dibangun pada tahun 2000 dan resmi dibuka pada tahun 2002.
+
+Planetarium Jagad Raya merupakan planetarium ketiga di Indonesia setelah Planetarium Jakarta dan Planetarium Surabaya, Jawa Timur.
+
+Planetarium Jagad Raya terletak di Jalan Pangeran Diponegoro, di sebelah kiri bangunan Museum Mulawarman. Planetarium ini dibangun pada tahun 2002 dan diresmikan pada tanggal 16 April 2003. Tempat ini merupakan sarana wisata pendidikan untuk menikmati keindahan alam semesta berupa bintang-bintang, planet dan objek-objek langit lainnya. Planetarium ini merupakan tempat Teater Bintang atau teater alam, karena dapat memperlihatkan isi alam semesta serta susunannya.
+
+Alat peraga yang digunakan berupa Proyektor Skymaster ZKP 3 buatan perusahaan Carl Zeiss Jerman, dengan tinggi maksimum 2750 mm dan berat mencapai 250 kg, lensa yang dimilikinya adalah 100 lensa. Memproyeksikan gambar matahari, bulan, komet, meteor, bintang, rasi, galaksi dan lain-lain. Selain proyektor utama, pada Skymaster ZKP 3 juga terdapat pendukung lainnya berupa proyektor effect dan 8 buah proyektor slide yang berfungsi untuk memproyeksikan gambar.
+
+Ruang yang digunakan sebagai ruang peragaan ditempatkan melingkari proyektor dan saat pertunjukan dimulai, ruangan tertutup rapat sehingga tidak ada cahaya yang masuk dan sirkulasi udara di atur dengan pendingin ruangan.
+    </string>
+    <string name="jembatan_">Jika Anda mengunjungi jembatan Kukar maka Anda dapat juga mengunjungi sebuah taman yang disebut Taman Pedestrian. Desain Taman Pedestrian ini indah dan unik serta menjadi icon panorama kota Tenggarong bersama Jembatan Kutai Kartanegara karena letaknya persis bersebelahan.
+
+Berbagai even dan hiburan musik kerap diselenggarakan di tempat ini. Setiap sore, pengunjung bersama keluarga akrab bercengkerama di tempat ini.  Selain itu, disisi pentas, juga terdapat fasilitas panjat tebing yang digunakan oleh atlit maupun komunitas panjat tebing untuk berlatih.
+
+Fasilitas lain yang ada di Taman Pedestrian ini adalah tersedianya ’track’ lintasan bagi pejalan kaki, tempat duduk untuk bersantai dan sebuah tugu yang dipuncaknya terdapat patung burung enggang. Suasana yang sejuk akan terasa saat melintasi lintasan pejalan kaki disela-sela pepohonan disekitar taman ini.
+
+Para pedagang makanan yang berada di sekitar Tanam Pedestrian maupun sisi bawah jembatan lainnya ini kini menjadi salah satu pusat kuliner sore-malam hari di Tenggarong. Bahkan banyak kalangan sudah menyebut tempat ini dengan istilah BJ (Bawah Jembatan) sebagai salah satu tempat untuk hang-out bersama teman maupun kerabat.
+    </string>
+    <string name="pucak_">Puncak bukit biru, nama yang tidak asing dikalangan pecinta alam, berlokasi di desa Sumber Sari Kecamatan Loa Kulu, Kutai Kartanegara. Puncak Bukit biru memang sudah sejak lama dikenal sebagai salah satu tujuan wisata alam terutama bagi kalangan muda.
+
+Beberapa komunitas juga pernah menjelajah hingga ke puncak bukit. Sebut saja Komunitas Photografer Lensa Kukar. Salah satu daya tarik yang menjadi tujuan komunitas tersebut, yakni menikmati keindahan alam yang berada dibawahnya, seperti hamparan sawah - sawah yang luas.
+
+Tidak hanya itu, Menyaksikan matahari terbit atau terbenam dari atas ketinggian menjadi magnet tersendiri bagi pengunjung di kawasan tersebut. Moment seperti inilah yang membuat puncak biru dikunjungi berbagai kalangan, yang tidak hanya berasal dari Tenggarong saja.
+
+Untuk menuju lokasi, perjalanan hanya bisa dilakukan dengan berjalan kaki sejauh 1 kilometer. Namun perlu diingat, disisi kiri dan kanan saat akan naik ke puncak tidak akan ditemui pagar pengaman, karena itu disarankan untuk menggunakan pemandu yang sudah berpengalaman. Beberapa hal juga harus diperhatikan untuk keamanan selama menempuh perjalanan hingga sampai ke atas bukit.
+
+Pertama, mempersiapkan kondisi fisik, mengingat jarak yang cukup jauh dan menanjak akan menjadi salah satu pemicu kelelahan, Kedua, mempersiapkan bekal seperti minuman pengganti cairan, obat-obatan berupa balsem dan sebagainya, Ketiga, membawa alat komunikasi untuk melakukan kontak jika terjadi hal-hal yang tidak diinginkan, dan terakhir, berkoordinasi serta memberitahukan kedatangan kepada warga sekitar.
+
+Perlu diketahui, Desa Sumber Sari telah diresmikan sebagai kawasan wisata alam dan edukasi oleh Sekretaris Daerah (Sekda) Kukar Edi Damansyah, pada 10 Januari 2015 lalu. Kawasan ini dikelola oleh Kelompok Sadar Wisata Desa Sumber Sari, berbagai paket wisata pun ditawarkan dengan harga murah.
+    </string>
+</resources>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.synnapps.carouselview.CarouselView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:fillColor="#58FF00"
+            app:pageColor="#000000"
+            app:radius="4dp"
+            app:slideInterval="3000"
+            app:strokeColor="#FF777777"
+            android:id="@+id/carouselView"
+            app:strokeWidth="1dp">
+
+        </com.synnapps.carouselview.CarouselView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:background="#ffffff"
+            android:layout_height="0dp"
+            android:layout_weight="2">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:orientation="vertical"
+                android:paddingTop="20dp"
+                android:gravity="center_horizontal">
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:background="@drawable/btn"
+                    android:src="@mipmap/obj1_foreground"
+                    android:id="@+id/btn_profil"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="PROFIL TENGGARONG"
+                    android:textStyle="bold|italic"
+                    android:gravity="center"
+                    android:textColor="#000000"/>
+
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="100dp"
+                    android:background="@drawable/btn"
+                    android:src="@mipmap/pt1"
+                    android:id="@+id/btn_lokasi"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="LOKASI WISATA"
+                    android:gravity="center"
+                    android:textColor="#000000"
+                    android:textStyle="bold|italic"/>
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_height="100dp"
+                    android:background="@drawable/btn"
+                    android:src="@mipmap/galeri_foreground"
+                    android:id="@+id/btn_galeri"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="GALERI WISATA"
+                    android:gravity="center"
+                    android:textStyle="bold|italic"
+                    android:textColor="#000000"/>
+
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:gravity="center_horizontal"
+                android:paddingTop="20dp"
+                android:orientation="vertical"
+                android:layout_height="match_parent"
+                android:layout_weight="2">
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:background="@drawable/btn"
+                    android:src="@mipmap/web_foreground"
+                    android:id="@+id/btn_portal"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="PORTAL WISATA"
+                    android:gravity="center"
+                    android:textStyle="bold|italic"
+                    android:textColor="#000000"/>
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:background="@drawable/btn"
+                    android:src="@mipmap/video_foreground"
+                    android:id="@+id/btn_video"
+                    android:layout_marginTop="20dp"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="VIDEO WISATA"
+                    android:gravity="center"
+                    android:textStyle="bold|italic"
+                    android:textColor="#000000"/>
+
+                <ImageButton
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:background="@drawable/btn"
+                    android:src="@mipmap/about_iy"
+                    android:id="@+id/btn_about"
+                    android:layout_marginTop="20dp"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="TENTANG PENGEMBANG"
+                    android:gravity="center"
+                    android:textStyle="bold|italic"
+                    android:textColor="#000000"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

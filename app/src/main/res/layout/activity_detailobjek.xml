@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".detailobjek"
+    android:id="@+id/linearLayoutID">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:id="@+id/iv_gambar"
+            android:scaleType="fitXY"
+            android:src="@drawable/tgr01"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TENGGARONG"
+            android:textSize="25dp"
+            android:paddingRight="15dp"
+            android:paddingLeft="15dp"
+            android:paddingTop="25dp"
+            android:layout_below="@+id/iv_gambar"
+            android:textStyle="bold|normal"
+            android:id="@+id/judul"
+            android:textColor="#000000"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:textSize="15sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/isi"
+            android:textColor="#000000"
+            android:gravity="center_vertical"
+            android:typeface="sans"
+            android:text="@string/isi"
+            android:paddingRight="@dimen/nav_header_vertical_spacing"
+            android:layout_below="@+id/judul"
+            android:paddingTop="15sp"/>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_gambar"
+            android:id="@+id/fab"
+            android:layout_margin="10dp"
+            android:layout_alignParentRight="true"
+            app:fabSize="normal"
+            app:backgroundTint="#FF0000"
+            android:src="@drawable/ic_navigation_black_24dp"/>
+
+
+    </RelativeLayout>
+
+</ScrollView>
